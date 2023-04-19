@@ -1,0 +1,20 @@
+div .c6{color: red;-webkit-text-stroke: white 1.5px;font-size: 100px;}
+.cr{background-image: url(../images/connexion.png);height: 170px;}
+h4 {font-family: sans-serif; color:#555555; font-size:16px;}
+h3 {font-family: sans-serif; color:#555555;}
+p {font-family: sans-serif; color:#888888; font-size:14px;}
+a {font-family: sans-serif; color:#d15423; text-decoration:none;}
+.cr span{
+  color: white;
+  font-weight: 600;
+}
+nav{
+font-weight: 800;
+}
+
+.slider{
+  width:500px;
+  background: rgba(0,90,50,0.7);
+}
+.r1{ border-radius: 75px; background-color: green; width: 150px; height: 230px; padding: 25px 25px; color: black;}
+.r2{ border-radius: 75px; background-color: blue;  width: 150px; height: 200px ;padding: 25px 25px; color: black;}
